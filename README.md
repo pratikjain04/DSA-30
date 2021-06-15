@@ -1,3 +1,3 @@
 # DSA-30
 
-## This Repository has functional codes from Leetcode and Practice GFG
+#### This Repository has functional codes from Leetcode, Practice GFG, and a few contests
